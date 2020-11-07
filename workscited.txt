@@ -1,0 +1,11 @@
+The following sources were used when creating this game.
+
+-- https://www.youtube.com/watch?v=lhNdUVh3qCc from freeCodeCamp.org YouTube channel to help with basic functionality of the game.
+
+-- https://jayhawk-nation.web.app/examples/TicTacToe for basic page design and beginner game code.
+
+-- https://www.w3schools.com/html/html_css.asp for style.css info and basics.
+
+-- https://github.com/SeanCBlue652/EECS448-battleship EECS 448 group project, referenced for style and button help.
+
+-- https://github.com/SeanCBlue652/eecs-448-gomoku EECS 448 group project, referenced for piece styles and placement help.
